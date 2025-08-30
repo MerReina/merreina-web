@@ -1,5 +1,227 @@
 {
+  "h1": "Ilustración con raíz andaluza",
+  "subtitle": "Desde las entrañas",
   "contact_email": "calebludesign@gmail.com",
   "instagram": "calebludesign_",
-  "bio_photo": "assets/bio/bio.jpg"
+  "hero_image": "assets/tienda/tarot/12- El ahorcado_v1.jpg",
+  "index_showcase": [
+    "assets/tienda/tarot/12- El ahorcado_v1.jpg",
+    "assets/tienda/tarot/16- La torre_v1.jpg",
+    "assets/tienda/tarot/17- La estrella_v1.jpg"
+  ],
+  "bio_photo": "assets/bio/IMG_20250427_180330_516.jpg",
+  "shop_note_tarot": "Colección Tarot Andaluz: si deseas un Arcano que no esté entre las ilustraciones a la venta, escríbeme: tengo ilustraciones de todos los Arcanos Mayores.",
+  "shop": [
+    {
+      "title": "12 El Ahorcado V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/12- El ahorcado_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "16 La Torre V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/16- La torre_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "17 La Estrella V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/17- La estrella_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "18 La Luna V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/18- La luna_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "21 El Mundo V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/21- El mundo_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "3 La Emperatriz V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/3-La emperatriz_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "8 La Fuerza V1 — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tarot/8- La fuerza_v1.jpg",
+      "collection": "Tarot Andaluz"
+    },
+    {
+      "title": "Amor De Madre",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/amor de madre.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Autoabrazo",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/autoabrazo.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Calores 1",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/calores 1.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Flamenca Tinta",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/flamenca tinta.png",
+      "collection": "Prints"
+    },
+    {
+      "title": "Flamenco Tinta",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/flamenco tinta.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Lola",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/lola.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Nazareno",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/nazareno.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Pureza",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/pureza.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Sex Mujeres",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/sex_mujeres.jpg",
+      "collection": "Prints"
+    },
+    {
+      "title": "Tacones",
+      "price": "15 € · A4 (+ envío)",
+      "payhip_id": "",
+      "image": "assets/tienda/tacones.jpg",
+      "collection": "Prints"
+    }
+  ],
+  "portfolio_sections": [
+    {
+      "title": "Tarot Andaluz — Arcanos mayores",
+      "items": [
+        {
+          "image": "assets/tienda/tarot/12- El ahorcado_v1.jpg",
+          "title": "12 El Ahorcado V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/16- La torre_v1.jpg",
+          "title": "16 La Torre V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/17- La estrella_v1.jpg",
+          "title": "17 La Estrella V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/18- La luna_v1.jpg",
+          "title": "18 La Luna V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/21- El mundo_v1.jpg",
+          "title": "21 El Mundo V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/3-La emperatriz_v1.jpg",
+          "title": "3 La Emperatriz V1",
+          "caption": "Tarot Andaluz"
+        },
+        {
+          "image": "assets/tienda/tarot/8- La fuerza_v1.jpg",
+          "title": "8 La Fuerza V1",
+          "caption": "Tarot Andaluz"
+        }
+      ]
+    },
+    {
+      "title": "Prints",
+      "items": [
+        {
+          "image": "assets/tienda/amor de madre.jpg",
+          "title": "Amor De Madre",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/autoabrazo.jpg",
+          "title": "Autoabrazo",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/calores 1.jpg",
+          "title": "Calores 1",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/flamenca tinta.png",
+          "title": "Flamenca Tinta",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/flamenco tinta.jpg",
+          "title": "Flamenco Tinta",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/lola.jpg",
+          "title": "Lola",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/nazareno.jpg",
+          "title": "Nazareno",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/pureza.jpg",
+          "title": "Pureza",
+          "caption": ""
+        },
+        {
+          "image": "assets/tienda/sex_mujeres.jpg",
+          "title": "Sex Mujeres",
+          "caption": ""
+        }
+      ]
+    }
+  ]
 }
