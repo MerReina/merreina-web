@@ -6,5 +6,125 @@
   "contact_email": "calebludesign@gmail.com",
   "instagram": "calebludesign_",
   "shop_note_tarot": "Colección Tarot Andaluz: si deseas un Arcano que no esté entre las ilustraciones a la venta, escríbeme: tengo ilustraciones de todos los Arcanos Mayores.",
-  "shop": []
+  "shop": [
+    {
+      "title": "12 El Ahorcado — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/12-_El_ahorcado_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "16 La Torre — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/16-_La_torre_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "17 La Estrella — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/17-_La_estrella_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "18 La Luna — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/18-_La_luna_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "21 El Mundo — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/21-_El_mundo_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "3 La Emperatriz — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/3-La_emperatriz_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "8 La Fuerza — Tarot Andaluz",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tarot/8-_La_fuerza_v1.jpg",
+      "collection": "Tarot Andaluz",
+      "payhip_id": ""
+    },
+    {
+      "title": "Amor De Madre",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/amor_de_madre.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Autoabrazo",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/autoabrazo.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Calores 1",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/calores_1.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Flamenca Tinta",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/flamenca_tinta.png",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Flamenco Tinta",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/flamenco_tinta.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Lola",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/lola.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Nazareno",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/nazareno.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Pureza",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/pureza.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Sex Mujeres",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/sex_mujeres.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    },
+    {
+      "title": "Tacones",
+      "price": "15 € · A4 (+ envío)",
+      "image": "assets/tienda/tacones.jpg",
+      "collection": "Prints",
+      "payhip_id": ""
+    }
+  ]
 }

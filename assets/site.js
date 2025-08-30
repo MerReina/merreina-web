@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     T('[data-ig]', '@' + cfg.instagram);
     A('[data-ig-link]', 'href', 'https://instagram.com/' + cfg.instagram);
 
-    // Tienda split
+    // Shop split
     const note = document.getElementById('note-tarot');
     if (note && cfg.shop_note_tarot) note.textContent = cfg.shop_note_tarot;
 
