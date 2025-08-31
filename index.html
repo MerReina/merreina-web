@@ -10,9 +10,14 @@
 </head>
 <body>
 <header>
-  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;">
-    <div id="brand-box"><img class="brand-img" src="assets/logo.png" alt="Mer Reina"></div>
-    <nav>
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+    <div id="brand-box">
+      <a href="index.html" aria-label="Inicio">
+        <img class="brand-img" src="assets/logo.png" alt="Mer Reina">
+      </a>
+    </div>
+    <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="site-nav">☰</button>
+    <nav id="site-nav" class="nav">
       <a href="index.html">Inicio</a>
       <a href="obra.html">Portfolio</a>
       <a href="tienda.html">Tienda</a>
@@ -23,26 +28,28 @@
 <main class="wrap">
 <section class="hero-sbs" style="padding-top:32px">
   <div>
-    <h1 data-h1>Ilustración con raíz andaluza</h1>
-    <p class="lead" data-sub>Desde las entrañas</p>
+    <h1>Ilustración con raíz andaluza</h1>
+    <p class="lead">Desde las entrañas</p>
     <div style="margin-top:14px">
       <a class="btn" href="tienda.html">Comprar</a>
       <a class="btn ghost" href="obra.html" style="margin-left:10px">Ver portfolio</a>
     </div>
   </div>
   <div class="card" style="padding:0">
-    <img class="hero-img" data-hero src="assets/bio/IMG_20250427_180330_516.jpg" alt="Mer Reina">
+    <img class="hero-img" src="assets/bio/IMG_20250427_180330_516.jpg" alt="Mer Reina">
   </div>
 </section>
 
 <section class="section">
-  <div class="bio-text" data-bio></div>
+  <div class="bio-text">Soy Mer Reina, ilustradora andaluza. 
+Mi trabajo se centra fundamentalmente en piezas en digital, aunque me atrae en general cualquier material o técnica con la que pueda dibujar. Mis piezas son figurativas y expresivas, con mucho blanco y negro y trazos intensos. 
+Detrás de cada ilustración hay un cachito de mis entrañas, porque solo nacen cuando tengo algo que decir o que gritar. También hay un trocito de mi tierra, de mis tradiciones, de lo cotidiano que a veces pasa desapercibido. Andalucía no es solo el escenario habitual: es raíz, fuerza y voz en mi obra.</div>
 </section>
 
 </main>
 <footer>
   <div class="wrap" style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center;">
-    <a data-ig-link href="https://instagram.com/calebludesign_" target="_blank" rel="noopener"><span data-ig>@calebludesign_</span></a>
+    <a data-ig-link href="https://instagram.com/calebludesign_" target="_blank" rel="noopener"><strong data-ig>@calebludesign_</strong></a>
   </div>
 </footer>
 </body>

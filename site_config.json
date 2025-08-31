@@ -1,130 +1,177 @@
 {
-  "h1": "Ilustración con raíz andaluza",
-  "subtitle": "Desde las entrañas",
-  "hero_image": "assets/bio/IMG_20250427_180330_516.jpg",
-  "bio_text": "Soy Mer Reina, ilustradora andaluza. Mi trabajo se centra fundamentalmente en piezas en digital, aunque me atrae en general cualquier material o técnica con la que pueda dibujar. Mis piezas son figurativas y expresivas, con mucho blanco y negro y trazos intensos. Detrás de cada ilustración hay un cachito de mis entrañas, porque solo nacen cuando tengo algo que decir o que gritar. También hay un trocito de mi tierra, de mis tradiciones, de lo cotidiano que a veces pasa desapercibido. Andalucía no es solo el escenario habitual: es raíz, fuerza y voz en mi obra.",
   "contact_email": "calebludesign@gmail.com",
   "instagram": "calebludesign_",
   "shop_note_tarot": "Colección Tarot Andaluz: si deseas un Arcano que no esté entre las ilustraciones a la venta, escríbeme: tengo ilustraciones de todos los Arcanos Mayores.",
   "shop": [
     {
-      "title": "12 El Ahorcado — Tarot Andaluz",
+      "title": "III. La Emperatriz — Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/12-_El_ahorcado_v1.jpg",
+      "description": "La Emperatrîh\nReina del patio cordobés, la abundancia florece en su regazo como el agua fresca que nunca se agota.\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/3-La emperatriz_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/wmJsh"
     },
     {
-      "title": "16 La Torre — Tarot Andaluz",
+      "title": "VIII. La Fuerza— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/16-_La_torre_v1.jpg",
+      "description": "La Fuerça\nDomando al león con la fuerza del arte. El duende, más poderoso que la garra, convierte el compás en valentía.\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/8- La fuerza_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/zHTAS"
     },
     {
-      "title": "17 La Estrella — Tarot Andaluz",
+      "title": "XII. El Ahorcado— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/17-_La_estrella_v1.jpg",
+      "description": "El Aorcao\n“El grito deja en el viento\nuna sombra de ciprés.”\n—Federico García Lorca, Poema del cante jondo\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/12- El ahorcado_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/4sSvE"
     },
     {
-      "title": "18 La Luna — Tarot Andaluz",
+      "title": "XVI. La Torre— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/18-_La_luna_v1.jpg",
+      "description": "La Torre\nLa Giralda se quiebra para renacer. Del derrumbe de lo viejo nace la promesa de un cielo nuevo.\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/16- La torre_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/dAbac"
     },
     {
-      "title": "21 El Mundo — Tarot Andaluz",
+      "title": "XVII. La Estrella— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/21-_El_mundo_v1.jpg",
+      "description": "La Êttreya\nDe su cántaro mana esperanza, y las estrellas de ocho puntas iluminan la memoria de un pueblo.\n Colección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/17- La estrella_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/PjO7u"
     },
     {
-      "title": "3 La Emperatriz — Tarot Andaluz",
+      "title": "XVIII. La Luna— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/3-La_emperatriz_v1.jpg",
+      "description": "La Luna\nLa Macarena llora sobre la orilla. Sus lágrimas de azabache bañan la costa, donde el mar se confunde con el lamento.\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/18- La luna_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/pFJAd"
     },
     {
-      "title": "8 La Fuerza — Tarot Andaluz",
+      "title": "XXI. El Mundo— Tarot Andaluz",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tarot/8-_La_fuerza_v1.jpg",
+      "description": "Er Mundo\nEntre las columnas de Hércules ondea la bandera verde y blanca, y Andalucía se hace universo.\nColección Tarot Andaluz",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tarot/21- El mundo_v1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Tarot Andaluz",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/0IGDm"
     },
     {
-      "title": "Amor De Madre",
+      "title": "Amor de Madre",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/amor_de_madre.jpg",
+      "description": "Ella.\nPrincesa guerrera,\nfaro en la tormenta,\nHada Madrina,\ncanción de cuna,\nLA MADRE QUE ME PARIÓ.\n[…]\n-Misentraña,2020-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/amor de madre_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/dvKUt"
     },
     {
       "title": "Autoabrazo",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/autoabrazo.jpg",
+      "description": "[…]\nY te dejo pasar.\nYa me arrastré bajo la alambrada\nsin ver que el tope era ficticio,\nsólo cielo.\nCon dos manos me abrazo mejor.\n-Misentraña, 2020-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/autoabrazo_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/SJaeu"
     },
     {
-      "title": "Calores 1",
+      "title": "Calores",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/calores_1.jpg",
+      "description": "“El calor se va enredando\ncomo un caracol de fuego.”\n-Marinero en Tierra, Rafael Alberti-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/calores 1_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/WYOyE"
     },
     {
-      "title": "Flamenca Tinta",
+      "title": "Flamenca",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/flamenca_tinta.png",
+      "description": "“El compás se enciende en un giro eterno, y el aire se llena de volantes como si el tiempo palmease por soleá.”",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/flamenca tinta_2.png",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
-    },
-    {
-      "title": "Flamenco Tinta",
-      "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/flamenco_tinta.jpg",
-      "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/e479u"
     },
     {
       "title": "Lola",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/lola.jpg",
+      "description": "\"El brillo de los ojos no se opera\"\n-Lola Flores-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/lola_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/x56K9"
     },
     {
       "title": "Nazareno",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/nazareno.jpg",
+      "description": "Entre cirios y silencios camina el alma, y cada paso es una promesa que pesa como la cruz en la Madrugada",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/nazareno_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/svFin"
     },
     {
       "title": "Pureza",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/pureza.jpg",
+      "description": "“En la calle Pureza canta el Guadalquivir bajito, y las paredes guardan el eco de las saetas que suben al cielo.”",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/pureza_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/xgSb9"
     },
     {
-      "title": "Sex Mujeres",
+      "title": "Sexo",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/sex_mujeres.jpg",
+      "description": "[…]\ny todo mi cuerpo es uno,\ncontigo\ndentro,\nfluyendo,\ny no quiero jamás secarte de mí.\n-Misentraña, 2020-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/sex_mujeres_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/O2rQ3"
+    },
+    {
+      "title": "Tablao",
+      "price": "15 € · A4 (+ envío)",
+      "description": "“El cante hondo se canta\ncomo lloran los niños,\ncomo el viento se canta,\ncomo el río.”\n-Manuel Machado, Cante hondo-",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/flamenco tinta_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
+      "collection": "Prints",
+      "payhip": "https://payhip.com/b/Ycyn7"
     },
     {
       "title": "Tacones",
       "price": "15 € · A4 (+ envío)",
-      "image": "assets/tienda/tacones.jpg",
+      "description": "“En cada tacón late un latido de tierra, y las manos se abren como alas que mandan en el compás.”",
+      "features": "Impresión en papel A4 180g",
+      "image": "assets/tienda/tacones_2.jpg",
+      "image2": "assets/tienda/blank.jpg",
       "collection": "Prints",
-      "payhip_id": ""
+      "payhip": "https://payhip.com/b/nZM7q"
     }
   ]
 }

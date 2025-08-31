@@ -10,9 +10,14 @@
 </head>
 <body>
 <header>
-  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;">
-    <div id="brand-box"><img class="brand-img" src="assets/logo.png" alt="Mer Reina"></div>
-    <nav>
+  <div class="wrap" style="display:flex;align-items:center;justify-content:space-between;gap:10px">
+    <div id="brand-box">
+      <a href="index.html" aria-label="Inicio">
+        <img class="brand-img" src="assets/logo.png" alt="Mer Reina">
+      </a>
+    </div>
+    <button class="nav-toggle" aria-label="Abrir menú" aria-expanded="false" aria-controls="site-nav">☰</button>
+    <nav id="site-nav" class="nav">
       <a href="index.html">Inicio</a>
       <a href="obra.html">Portfolio</a>
       <a href="tienda.html">Tienda</a>
@@ -23,18 +28,30 @@
 <main class="wrap">
 <section class="section">
   <h1>Contacto</h1>
-  <div class="card" style="padding:18px">
+  <div class="card" style="padding:18px;margin-bottom:16px">
     <h2>Escríbeme</h2>
     <p>Email: <a data-email-link href="mailto:calebludesign@gmail.com"><strong data-email>calebludesign@gmail.com</strong></a></p>
     <p>Instagram: <a data-ig-link href="https://instagram.com/calebludesign_" target="_blank"><strong data-ig>@calebludesign_</strong></a></p>
-    <p class="small">Envíos desde Andalucía.</p>
+  </div>
+  <div class="card" style="padding:18px">
+    <h2>Formulario</h2>
+    <form name="contacto" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="contacto">
+      <div style="display:grid;gap:10px;grid-template-columns:1fr 1fr">
+        <div><label>Nombre<br><input name="nombre" required style="width:100%;padding:10px;border:1px solid var(--line);border-radius:10px"></label></div>
+        <div><label>Email<br><input type="email" name="email" required style="width:100%;padding:10px;border:1px solid var(--line);border-radius:10px"></label></div>
+      </div>
+      <div style="margin-top:10px"><label>Mensaje<br><textarea name="mensaje" rows="6" required style="width:100%;padding:10px;border:1px solid var(--line);border-radius:10px"></textarea></label></div>
+      <div style="margin-top:12px"><button class="btn" type="submit">Enviar</button></div>
+    </form>
+    <p class="small" style="margin-top:8px">Este formulario usa <strong>Netlify Forms</strong>; verás los mensajes en tu panel de Netlify (Forms).</p>
   </div>
 </section>
 
 </main>
 <footer>
   <div class="wrap" style="display:flex;flex-wrap:wrap;gap:12px;align-items:center;justify-content:center;">
-    <a data-ig-link href="https://instagram.com/calebludesign_" target="_blank" rel="noopener"><span data-ig>@calebludesign_</span></a>
+    <a data-ig-link href="https://instagram.com/calebludesign_" target="_blank" rel="noopener"><strong data-ig>@calebludesign_</strong></a>
   </div>
 </footer>
 </body>
